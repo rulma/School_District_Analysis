@@ -16,7 +16,7 @@ After:
 As you can see there was a 0.1% drop in the overall passing rate for the district. The percent passing reading also fell by 0.3% and math fell by 0.2%.
 
 The School Summary Before:
-![School Before]()
+![School Before](https://github.com/rulma/School_District_Analysis/blob/36dd3eb421af106fa7ba74cbecf87b6f582a1a26/Resources/School%20Before.PNG)
 After:
-![School After]()
+![School After](https://github.com/rulma/School_District_Analysis/blob/36dd3eb421af106fa7ba74cbecf87b6f582a1a26/Resources/School%20After.PNG)
 ## Summary
