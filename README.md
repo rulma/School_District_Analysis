@@ -9,7 +9,7 @@ We were tasked with conducting an analysis on School performance in the area. We
 After updating our data set to remove all 9th grade results for math and reading from Thomas High School we noticed the following changes:
 
 The Distract Summary Before:
-!
+![Resources/After.PNG]
 After:
 
 As you cna see there was a 0.1% drop in the overall passing rate for the district. The percent passing reading also fell by 0.3% and math fell by 0.2%.
