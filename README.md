@@ -2,7 +2,7 @@
 
 ## Overview
 
-We were tasked with conducting an analysis on School performance in the area. We summarized student success in both reading and writing and looked to see how school size, type, and per capita spending affected stundent outcomes. We were alerted that there were fradulent reportings for Thomas High School's 9th grade class scores. We had to redo our analysis after removing these dishonest scores.
+We were tasked with conducting an analysis on School performance in the area. We summarized student success in both reading and writing and looked to see how school size, type, and per capita spending affected student outcomes. We were alerted that there were fraudulent reporting for Thomas High School's 9th grade class scores. We had to redo our analysis after removing these dishonest scores.
 
 ## Results
 
@@ -21,7 +21,7 @@ The School Summary Before:
 After:
 ![School After](https://github.com/rulma/School_District_Analysis/blob/36dd3eb421af106fa7ba74cbecf87b6f582a1a26/Resources/School%20After.PNG)
 
-In the above we can see the drastic change in Thomas High School's performance relative to the other high schools. Math and Reading Scores plummented over 20% for Thomas High School. 
+In the above we can see the drastic change in Thomas High School's performance relative to the other high schools. Math and Reading Scores plummeted over 20% for Thomas High School. 
 
 Replacing these grades also affected the overall summary for schools in the district.
 
@@ -54,4 +54,4 @@ After:
 
 ## Summary
 
-In summary, we can see how our school district analysis was negatively affected by the fradulent scores posted at Thomas High School. The loss of grades for the entire 9th grade class dragged down the averages fro schools in Thomas' spending bucket. It also caused a percentage drop in Charter school performance across the district.
+In summary, we can see how our school district analysis was negatively affected by the fraudulent scores posted at Thomas High School. The loss of grades for the entire 9th grade class dragged down the averages for schools in Thomas' spending bucket. It also caused a percentage drop in Charter school performance across the district. Despite these changes the overall shift in average performance across schools was marginal. In most cases the percentage change was <1%. The greatest change we witnessed was the drop in overall charter performance before and after which saw nearly a 0.5% drop passing students.
