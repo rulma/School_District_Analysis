@@ -17,6 +17,7 @@ As you can see there was a 0.1% drop in the overall passing rate for the distric
 
 The School Summary Before:
 ![School Before](https://github.com/rulma/School_District_Analysis/blob/36dd3eb421af106fa7ba74cbecf87b6f582a1a26/Resources/School%20Before.PNG)
+
 After:
 ![School After](https://github.com/rulma/School_District_Analysis/blob/36dd3eb421af106fa7ba74cbecf87b6f582a1a26/Resources/School%20After.PNG)
 
@@ -28,6 +29,7 @@ Results by school spending fell in the $630 - 644 range. Which just so happens t
 
 Before:
 ![Spending Before](https://github.com/rulma/School_District_Analysis/blob/801c6d3e1d9e09c41d374b288e2850785ec39cd7/Resources/spending%20before.PNG)
+
 After:
 ![Spending After](https://github.com/rulma/School_District_Analysis/blob/801c6d3e1d9e09c41d374b288e2850785ec39cd7/Resources/spending%20after.PNG)
 
@@ -35,6 +37,7 @@ School size averages where also affected negatively by Thomas' grade changes.
 
 Before:
 ![size before](https://github.com/rulma/School_District_Analysis/blob/ebb3f914442de0c41fa9cf302fac01c1b025eade/Resources/size%20before.PNG)
+
 After:
 ![size after](https://github.com/rulma/School_District_Analysis/blob/ebb3f914442de0c41fa9cf302fac01c1b025eade/Resources/size%20after.PNG)
 
